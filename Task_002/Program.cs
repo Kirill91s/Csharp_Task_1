@@ -21,10 +21,7 @@
         {
          numberA = numberC;
         }
-        else
-        {
-        Console.WriteLine("Проверь числа");
-        }
+        
         Console.WriteLine("max : " + numberA);
     }
 }
